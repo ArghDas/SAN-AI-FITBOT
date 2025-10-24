@@ -26,8 +26,7 @@
   - [Installation](#installation)  
   - [Configure API/Settings](#configure-apisettings)  
 - [Usage](#usage)  
-- [Testing](#testing)  
-- [License](#license)  
+- [Testing](#testing) 
 - [Acknowledgements](#acknowledgements)
 
 ---
